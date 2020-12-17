@@ -8,6 +8,9 @@
 # jetbrains
 .idea
 
+#eslint
+.eslintcache
+
 # testing
 /coverage
 
