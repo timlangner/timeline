@@ -44,7 +44,7 @@ function App() {
                           className={`button ${
                               isWorkIcon ? "workButton" : "schoolButton"
                           }`}
-                          href="/"
+                          href="#"
                       >
                         {element.buttonText}
                       </a>
